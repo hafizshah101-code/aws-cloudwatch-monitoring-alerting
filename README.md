@@ -9,7 +9,7 @@ The objective is to deploy an EC2 instance inside a custom VPC, configure CloudW
 ---
 
 ## Architecture
-
+```text
 Internet
     │
     ▼
@@ -35,6 +35,7 @@ Amazon SNS
     │
     ▼
 Email Notification
+```
 
 ---
 
