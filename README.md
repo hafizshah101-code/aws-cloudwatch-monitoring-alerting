@@ -172,6 +172,8 @@ The test successfully increased CPU utilization above 90%.
 
 ## Screenshots
 
+##Go to Images File
+
 ### Architecture
 
 Go to architecture.png
