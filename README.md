@@ -37,6 +37,8 @@ Amazon SNS
 Email Notification
 ```
 
+![Architecture](aws-cloudopsmonitoring-architecture.png)
+
 ---
 
 ## AWS Services Used
